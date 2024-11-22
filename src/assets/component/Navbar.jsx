@@ -11,7 +11,7 @@ export const Navbar = ({ text }) => {
     alert(`Hellow ${raj?.name} your age is   ${raj?.age}`);
   }
 
-  const help = "bro whatup"
+  const help = "bro whatup what are you doing"
 
   return (
     <>
