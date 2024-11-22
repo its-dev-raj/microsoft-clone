@@ -32,7 +32,7 @@ export const Navbar = ({ text }) => {
             return (
               <div
                 key={index}
-                className="size-40 rounded-full text-center border text-2xl"
+                className="size-40 rounded-full bg-[blue] text-center border text-2xl"
               >
                 {" "}
                 {item.name}
